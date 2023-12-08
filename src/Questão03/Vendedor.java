@@ -1,4 +1,3 @@
-package Questao03.dominio;
 
 public class Vendedor extends Empregado{
     private double valorVendas; // valor monetário dos artigos vendidos
