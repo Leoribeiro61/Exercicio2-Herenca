@@ -1,4 +1,3 @@
-package Questao03.dominio;
 
 public class Fornecedor extends Pessoa{
     private double valorCredito; // crédito máx. atribuido ao fornecedor
