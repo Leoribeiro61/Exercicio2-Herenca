@@ -1,4 +1,3 @@
-package Questao04.Dominio;
 
 public class Redbull extends Empresa{
     private String atletas;
