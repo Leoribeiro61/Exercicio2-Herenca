@@ -1,4 +1,3 @@
-package Questao01;
 
 public class Peixe extends Animal{
     private String tipoHabitat;
