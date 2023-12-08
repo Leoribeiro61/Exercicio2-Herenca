@@ -1,4 +1,3 @@
-package Questao04.Dominio;
 
 public class Empresa {
     private String setor;
