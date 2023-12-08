@@ -1,5 +1,3 @@
-package Questao04.Dominio;
-
 public class Nike extends Empresa {
     private String linhaProducao;
     private String modelo;
