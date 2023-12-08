@@ -1,4 +1,3 @@
-package Questao02;
 
 public class Vendedor extends Empregado{
     private double valorVendas;
