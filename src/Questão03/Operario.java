@@ -1,4 +1,3 @@
-package Questao03.dominio;
 
 public class Operario extends Empregado{
     private double valorProducao; // valor monetário dos artigos de fato produzidos pelo operário
