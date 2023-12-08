@@ -1,4 +1,3 @@
-package Questao02;
 
 // enunciado não permite ter o método toString na classe Pessoa, logo não posso usar SUPER.
 public class Pessoa {
