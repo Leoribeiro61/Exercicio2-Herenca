@@ -1,4 +1,3 @@
-package Questao02;
 
 public class Gerente extends Empregado{
     private String nomeGerencia;
