@@ -1,4 +1,3 @@
-package Questao02;
 
 public class Cliente extends Pessoa{
     private double valorDivida;
