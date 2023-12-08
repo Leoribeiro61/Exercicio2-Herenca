@@ -1,4 +1,3 @@
-package Questao03.dominio;
 
 public class Empregado extends Pessoa{
     private int codigoSetor;
